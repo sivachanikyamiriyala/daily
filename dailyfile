@@ -1,0 +1,12 @@
+date://19/12/2018
+firstly install Virtualbox
+ sudo apt-get install Virtualbox
+secondly update the apt repository and install vagrant
+ sudo apt-get update
+ sudo apt-get install vagrant
+copy vagrant file and up the file
+ goto vagrant file location and up
+ vagrant up
+to destroy
+ vagrant destroy
+
