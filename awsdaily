@@ -1,7 +1,7 @@
 --------------------
 To lanch an instance using cli
  aws ec2 help ---->for help
- aws ec2 run-instances --image-id imageidcancustomalso --key-name pemkey --region specifytheregion
+ aws ec2 run-instances --image-id imageidcancustomalso --key-name pemkey --instance-type t2.micro --region specifytheregion
 To desc the running instances
  aws ec2 describe-instances
  will show all instances can filter with grep
