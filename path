@@ -1,0 +1,8 @@
+
+PATH=$PATH:/home/ubuntu
+path  setting 
+which means where it is located 
+ 
+#bin/bash
+sudo apt-get update
+
